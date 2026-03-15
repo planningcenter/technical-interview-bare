@@ -1,6 +1,6 @@
 # Technical Interview Exercise
 
-Welcome! This is a Rails 8 application scaffolded as a starting point for a live coding exercise.
+Welcome! This is a Rails application scaffolded as a starting point for a live coding exercise.
 
 ## Prerequisites
 
