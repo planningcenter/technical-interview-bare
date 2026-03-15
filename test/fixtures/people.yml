@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+pico:
+  first_name: PiCO
+  last_name: Das Robot
+  email: pico@planningcenter.com
+
+pica:
+  first_name: Pica
+  last_name: Das Robot
+  email: pica@planningcenter.com
